@@ -13,6 +13,7 @@ dependencies = [
     "scikit-learn>=1.9.1",
     "scipy>=1.18.1",
     "seaborn>=0.13.2",
+    "shap>=0.53.0",
     "streamlit>=1.65.0",
     "ucimlrepo>=0.0.7",
     "xgboost>=3.4.1",
